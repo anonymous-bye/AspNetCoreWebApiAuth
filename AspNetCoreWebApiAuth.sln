@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiAuth", "AspNetCoreWebApiAuth.csproj", "{FE7B8EE9-17DF-46B6-B4FE-B683A0A302A7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AspNetCoreWebApiAuth", "AspNetCoreWebApiAuth\AspNetCoreWebApiAuth.csproj", "{8341B2BC-F7EF-4A6A-8122-18B74E11AF92}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{FE7B8EE9-17DF-46B6-B4FE-B683A0A302A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{FE7B8EE9-17DF-46B6-B4FE-B683A0A302A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{FE7B8EE9-17DF-46B6-B4FE-B683A0A302A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{FE7B8EE9-17DF-46B6-B4FE-B683A0A302A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8341B2BC-F7EF-4A6A-8122-18B74E11AF92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8341B2BC-F7EF-4A6A-8122-18B74E11AF92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8341B2BC-F7EF-4A6A-8122-18B74E11AF92}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8341B2BC-F7EF-4A6A-8122-18B74E11AF92}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {C7CCE68E-7DB7-46EE-81E7-E992DB00BAD4}
+		SolutionGuid = {B3D91222-BE16-495A-A118-ABEBA16436BF}
 	EndGlobalSection
 EndGlobal
